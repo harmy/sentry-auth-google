@@ -8,7 +8,7 @@ Install
 
 ::
 
-    $ pip install https://github.com/getsentry/sentry-auth-google/archive/master.zip
+    $ pip install https://github.com/harmy/sentry-auth-google/archive/master.zip
 
 Setup
 -----
